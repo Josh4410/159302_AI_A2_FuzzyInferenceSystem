@@ -1,8 +1,8 @@
 # Fuzzy Controller for the Inverted Pendulum
 
-A **Zero-Order Sugeno Fuzzy Inference System** that balances an inverted pendulum on a moving cart, built for **159.302 Artificial Intelligence – Assignment #2** (N.H. Reyes).
+A **Zero-Order Sugeno Fuzzy Inference System** that balances an inverted pendulum on a moving cart, built for **159.302 Artificial Intelligence  Assignment #2** (N.H. Reyes).
 
-The simulation uses second-order derivative physics equations and a simple graphics library to model the full cart–pendulum dynamics. A built-in fuzzy logic engine provides trapezoidal membership functions and centroid defuzzification.
+The simulation uses second-order derivative physics equations and a simple graphics library to model the full cart pendulum dynamics. A built-in fuzzy logic engine provides trapezoidal membership functions and centroid defuzzification.
 
 ---
 
